@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Raleway', sans-serif;
-    background: linear-gradient(45deg,#38e728,#84e4f7);
+    background:linear-gradient(90deg, rgba(25,255,183,1) 0%, rgba(81,178,255,1) 54%, rgba(0,212,255,1) 100%);
     margin: 0;
     padding: 0;
     color: #2255a4;
